@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://solutionprimellc.com/sitemap.xml
